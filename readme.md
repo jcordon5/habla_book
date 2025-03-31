@@ -48,7 +48,7 @@ Y responde de forma clara, contextualizada y sin adelantar información aún no 
 
 La aplicación está disponible públicamente en el siguiente enlace:
 
-👉 [**hablabook.streamlit.io**](https://hablabook.streamlit.io)
+👉 [**hablabook.streamlit.io**](https://hablabook.streamlit.app)
 
 Sin necesidad de instalación ni registro. Solo sube tu libro y empieza a preguntar.
 

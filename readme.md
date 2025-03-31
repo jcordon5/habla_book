@@ -30,11 +30,13 @@ Y responde de forma clara, contextualizada y sin adelantar información aún no 
 
 ## 🎬 Demostración
 
-### 🗺️ Evitar spoilers
-![Spoiler](demo/pregunta2.gif)
-
 ### 🐇 Preguntas sobre personajes
 ![Consulta personaje](demo/pregunta3.gif)
+
+
+### 🗺️ Filtro de contenido no leído
+![Spoiler](demo/pregunta2.gif)
+
 
 ### 🔍 Otras consultas
 ![Otros](demo/pregunta1.gif)
@@ -53,6 +55,7 @@ Sin necesidad de instalación ni registro. Solo sube tu libro y empieza a pregun
 *(Necesaria API Key de Open AI para el uso del sistema. Pueden aplicarse cargos por uso.)*
 
 ---
+
 Referencias
 
 - [Nubeteca](https://www.dip-badajoz.es/cultura/ceex/index.php?cont=nubeteca), promovido por la Diputación de Badajoz y la Universidad de Salamanca.
